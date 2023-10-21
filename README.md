@@ -2,6 +2,9 @@
 
 - create-react-app
 - configured tailwind css
+- Header done
+- Login Form done
+- SIgnup Form
 
 # Features:
 - Login/sign up
