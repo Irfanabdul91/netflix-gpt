@@ -1,9 +1,7 @@
 # netflix gpt
 
--create-react-app
--configured tailwind css
--
-
+- create-react-app
+- configured tailwind css
 
 # Features:
 - Login/sign up
